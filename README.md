@@ -14,13 +14,13 @@ This is a simple API built with FastAPI that provides authentication and toy man
 1. **Clone the repository** (if necessary):
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ALiEbrahimiir/Toy-Store.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd <your-project-directory>
+   cd Toy-Store
    ```
 
 3. **Install the dependencies**:
