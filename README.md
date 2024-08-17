@@ -14,7 +14,7 @@ This is a simple API built with FastAPI that provides authentication and toy man
 1. **Clone the repository** (if necessary):
 
    ```bash
-   git clone https://github.com/ALiEbrahimiir/Toy-Store.git
+   git clone https://github.com/AliEbrX/Toy-Store.git
    ```
 
 2. **Navigate to the project directory**:
